@@ -55,11 +55,3 @@ El botón "Confirmar inscripción" queda deshabilitado mientras `isValid` sea `f
 
 - ✅ **AsyncStorage**: se guarda el email de la última persona inscripta y se precarga automáticamente la próxima vez que se abre la app.
 - ✅ **Loading simulado**: al confirmar, el botón muestra un spinner durante 1 segundo (simulando un envío a un servidor) antes de mostrar el ticket.
-
-## Capturas de pantalla
-
-_(Agregar acá las 3 capturas pedidas: formulario con errores visibles, formulario completo y válido, y ticket de confirmación)_
-
-1. Formulario con errores
-2. Formulario válido
-3. Ticket de confirmación
